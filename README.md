@@ -1,6 +1,6 @@
 # Codewave Developments Anchor (CWD-Anchor)
 
-Welcome to **CWD-Anchor**! This is my first public resource for FiveM, so go easy on me <3
+Welcome to **CWD-Anchor**! This is our first public resource for FiveM, so go easy <3
 
 ## Overview
 
